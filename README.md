@@ -1,16 +1,14 @@
-# dice-game
+# Hello World! I'm Garrett
 
-import random
+I am a Python developer passionate about the Language and using it to build clean, efficient tools. I enjoy creating fun projects in my spare time that other developers can implement in their own code.
 
-while True:
-    user_input = input("Would you like to roll the dice? y/n: ").lower()
+Skills
+Python
 
-    if user_input == "y":
-        roll_one = random.randint(1, 6)
-        roll_two = random.randint(1, 6)
-        print(f"You rolled: {roll_one} and {roll_two}")
-    elif user_input == "n":
-        print("thanks for playing!")
-        break
-    else:
-        print("Please type 'y' or 'n' .\n")
+Featured Projects
+[Dice Roller] 
+
+Connect
+[LinkedIn] (https://www.linkedin.com/in/garrett-belew/)
+[Email] (garrett.belew@gmail.com)
+
