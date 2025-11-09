@@ -19,7 +19,7 @@ I enjoy creating projects that are fun and useful, and I will be documenting my 
 
 ## Featured Projects
 > Each project has helped me learn something new with Python - from logic to libraries
-- [Dice Roller] - my first interactive Python app, simulating dice rolls in the terminal
+- [Dice Roller] (https://github.com/garrett-belew/dice-game.git) - my first interactive Python app, simulating dice rolls in the terminal
 *(Project links will be updated as I make each repository public.)*
 
 ## Connect
